@@ -1,4 +1,4 @@
-class Employee: #Create class;blueprint
+class Employee: #Create class(blueprint)
     def __init__(self,first,last,pay):
         self.first = first
         self.last = last
